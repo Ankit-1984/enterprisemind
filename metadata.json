@@ -1,0 +1,6 @@
+{
+  "name": "EnterpriseMind",
+  "description": "Agentic RAG, Hybrid Retrieval, and GraphRAG Enterprise Intelligence System with Verifiable Citations and Empirical Evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
